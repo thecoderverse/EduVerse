@@ -4,7 +4,7 @@ Belirli aralıklarla aramızda eğitimler düzenlemeyi düşünüyoruz. Bu eğit
 
 ## Eğitimler
 
-- [ ] __Ruby 101:__ Ruby eğitimini topluluk geliştiricilerinden [Muhtalip Dede](https://github.com/orgs/futureverseofficial/people/muhtalipdede) verecek. _(Tarih belirlenecek)_
+- [ ] __Ruby 101:__ Ruby eğitimini topluluk geliştiricilerinden [Muhtalip Dede](https://github.com/muhtalipdede) verecek. _(Tarih belirlenecek)_
 
 ## Katılım
 Katkıda bulunmak için lütfen [CONTRIBUTING](CONTRIBUTING.md) dosyasındaki adımları takip edin.
